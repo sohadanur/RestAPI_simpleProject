@@ -1,3 +1,5 @@
+#This is the url of the project, admin's urls.
+
 """
 URL configuration for practice project.
 
